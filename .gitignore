@@ -1,0 +1,37 @@
+# ========== Gradle ==========
+.gradle/
+build/
+**/build/
+
+# ========== Android ==========
+*.apk
+*.aab
+*.ap_
+*.dex
+local.properties
+.cxx/
+.externalNativeBuild/
+
+# ========== IntelliJ / Android Studio ==========
+.idea/
+*.iml
+
+# keep shared config optional
+!.idea/runConfigurations/
+
+# ========== iOS / Xcode ==========
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+
+# ========== OS ==========
+.DS_Store
+Thumbs.db
+
+# ========== Logs ==========
+*.log
+
+# ========== Keystore ==========
+*.jks
+*.keystore

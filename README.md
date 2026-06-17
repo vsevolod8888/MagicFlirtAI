@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MagicFlirtAI
 LLM-powered agentic system enabling autonomous, context-aware communication across Telegram conversations, leveraging tool-using AI agents, long-term memory, and Model Context Protocol (MCP) integrations.
 =======
@@ -25,12 +24,11 @@ Use the run configurations provided by the run widget in your IDE's toolbar. You
 
 ### Running tests
 
-Use the run button in your IDE's editor gutter, or run tests usingg Gradle tasks:
+Use the run button in your IDE's editor gutter, or run tests using Gradle tasks:
 
 - Android tests: `./gradlew :shared:testAndroidHostTest`
 - iOS tests: `./gradlew :shared:iosSimulatorArm64Test`
 
 ---
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
->>>>>>> be883c8 (initial commit)
+Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
